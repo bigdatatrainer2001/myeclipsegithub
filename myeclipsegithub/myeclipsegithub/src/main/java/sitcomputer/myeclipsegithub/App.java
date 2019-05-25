@@ -1,7 +1,7 @@
 package sitcomputer.myeclipsegithub;
 
 /**
- * Hello world!
+ * Hello world! This is to test update
  *
  */
 public class App 
